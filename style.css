@@ -1,0 +1,33 @@
+* {
+
+margin: 0;
+padding: 0;
+
+
+}
+
+
+.cabacalho{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 15px 25px;
+background-color: #8a2daf
+}
+
+.cartao{
+width: 260px;
+height: 20px;
+
+
+}
+
+.cartao-imagem{
+    width: 100%;
+}
+
+body{
+display: flex;
+flex-direction: column;
+
+}
